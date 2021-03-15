@@ -3,8 +3,9 @@ Materiali relativi agli esami del Corso di Laurea Magistrale in Informatica Uman
 
 # Informatica
 
-## Fondamenti di Informatica
-- [**Sito web**](https://github.com/FedericoMz/fondamentiDiInformatica) - [Federico Mazzoni](https://github.com/FedericoMz) 
+## Fondamenti di Informatica (Siti web)
+- [**Il gioco dei Dadi**](https://github.com/FedericoMz/fondamentiDiInformatica) - [Federico Mazzoni](https://github.com/FedericoMz) 
+- [**Indovina un Numero**](https://github.com/andreafailla/indovina-un-numero) - [Andrea Failla](https://github.com/andreafailla)
 
 ## Programmazione e Analisi di Dati
 - [**Esercizi in Java**](https://github.com/andreafailla/Esercizi-in-java) - [Andrea Failla](https://github.com/andreafailla)
@@ -23,7 +24,7 @@ Materiali relativi agli esami del Corso di Laurea Magistrale in Informatica Uman
 ## Piattaforme per il lavoro collaborativo	
 ## Progettazione di interfacce e valutazione dell’usabilità	
 ## Programmazione di interfacce	
-## Semantic web 
+## Semantic Web 
 - [**Narrative Ontology**](https://github.com/FedericoMz/Semantic-Web) - [Federico Mazzoni](https://github.com/FedericoMz)
 - [**Narrative Ontology (Feb-2021)**](https://github.com/andreafailla/Narrative-Ontology) - [Andrea Failla](https://github.com/andreafailla)
 - [**Progetto di Semantic Web 2019/2020**](https://github.com/luciapiff/Semantic-Web) - [Lucia Pifferi](https://github.com/luciapiff/)
