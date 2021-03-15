@@ -5,8 +5,8 @@ Materiali relativi agli esami del Corso di Laurea Magistrale in Informatica Uman
 # CARATTERIZZANTI DI AMBITO INFORMATICO
 
 * Programmazione e Analisi di Dati
-    [Esercizi in Java](https://github.com/andreafailla/Esercizi-in-java)
-  
+- [Esercizi in Java](https://github.com/andreafailla/Esercizi-in-java)
+ 
 * Ambienti virtuali	
 * Data Mining 
 * Decision support databases
@@ -20,6 +20,7 @@ Materiali relativi agli esami del Corso di Laurea Magistrale in Informatica Uman
 * Progettazione di interfacce e valutazione dell’usabilità	
 * Programmazione di interfacce	
 * Semantic web 
+-   [Narrative Ontology (Feb-2021)](https://github.com/andreafailla/Narrative-Ontology)
 * Social network analysis 
 * Technologies for web marketing
 * Text analytics
