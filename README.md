@@ -2,7 +2,8 @@
 Materiali relativi agli esami del Corso di Laurea Magistrale in Informatica Umanistica
 
 
-# CARATTERIZZANTI DI AMBITO INFORMATICO
+# Fondamenti di Informatica
+- Sito web: https://github.com/FedericoMz/fondamentiDiInformatica
 
 * Programmazione e Analisi di Dati
 * Ambienti virtuali	
@@ -18,7 +19,7 @@ Materiali relativi agli esami del Corso di Laurea Magistrale in Informatica Uman
 * Progettazione di interfacce e valutazione dell’usabilità	
 * Programmazione di interfacce	
 * Semantic web 
-[Progetto di Semantic Web 2019/2020](https://github.com/luciapiff/Semantic-Web)
+ [Progetto di Semantic Web 2019/2020] (https://github.com/luciapiff/Semantic-Web)
 * Social network analysis 
 * Technologies for web marketing
 * Text analytics
@@ -29,3 +30,4 @@ Materiali relativi agli esami del Corso di Laurea Magistrale in Informatica Uman
 * Linguistica computazionale II	
 * Linguistica generale II
 * Linguistica italiana II	
+
