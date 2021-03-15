@@ -18,6 +18,7 @@ Materiali relativi agli esami del Corso di Laurea Magistrale in Informatica Uman
 * Progettazione di interfacce e valutazione dell’usabilità	
 * Programmazione di interfacce	
 * Semantic web 
+
 [Progetto di Semantic Web 2019/2020](https://github.com/luciapiff/Semantic-Web)
 * Social network analysis 
 * Technologies for web marketing
