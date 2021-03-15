@@ -2,8 +2,8 @@
 Materiali relativi agli esami del Corso di Laurea Magistrale in Informatica Umanistica
 
 
-# CARATTERIZZANTI DI AMBITO INFORMATICO
-
+* Fondamenti di Informatica
+  [**Progetto di Fondamenti di Informatica**]: (https://github.com/FedericoMz/fondamentiDiInformatica)
 * Programmazione e Analisi di Dati
 - [Esercizi in Java](https://github.com/andreafailla/Esercizi-in-java)
  
@@ -20,7 +20,10 @@ Materiali relativi agli esami del Corso di Laurea Magistrale in Informatica Uman
 * Progettazione di interfacce e valutazione dell’usabilità	
 * Programmazione di interfacce	
 * Semantic web 
+
 -   [Narrative Ontology (Feb-2021)](https://github.com/andreafailla/Narrative-Ontology)
+
+- [**Progetto di Semantic Web 2019/2020**] (https://github.com/luciapiff/Semantic-Web)
 * Social network analysis 
 * Technologies for web marketing
 * Text analytics
@@ -31,3 +34,4 @@ Materiali relativi agli esami del Corso di Laurea Magistrale in Informatica Uman
 * Linguistica computazionale II	
 * Linguistica generale II
 * Linguistica italiana II	
+
