@@ -16,7 +16,7 @@ Materiali relativi agli esami del Corso di Laurea Magistrale in Informatica Uman
 * Introduzione all’Intelligenza Artificiale	
 * Machine learning
 * Metodi della fisica per le scienze umane
-[Progetto di Metodi della fisica per le scienze umane](https://github.com/luciapiff/Metodi-della-fisica-per-le-scienze-umane)
+[Progetto di Metodi della fisica per le scienze umane] (https://github.com/luciapiff/Metodi-della-fisica-per-le-scienze-umane)
 * Piattaforme per il lavoro collaborativo	
 * Progettazione di interfacce e valutazione dell’usabilità	
 * Programmazione di interfacce	
