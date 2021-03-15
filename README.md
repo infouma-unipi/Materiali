@@ -4,7 +4,7 @@ Materiali relativi agli esami del Corso di Laurea Magistrale in Informatica Uman
 # Informatica
 
 ## Fondamenti di Informatica
-- **Sito web**: (https://github.com/FedericoMz/fondamentiDiInformatica) - [Federico Mazzoni](https://github.com/FedericoMz) 
+- **[Sito web]**(https://github.com/FedericoMz/fondamentiDiInformatica) - [Federico Mazzoni](https://github.com/FedericoMz) 
 
 ## Programmazione e Analisi di Dati
 - [**Esercizi in Java**]: (https://github.com/andreafailla/Esercizi-in-java) - [Andrea Failla](https://github.com/andreafailla)
