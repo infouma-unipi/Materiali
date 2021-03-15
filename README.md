@@ -43,3 +43,5 @@ Materiali relativi agli esami del Corso di Laurea Magistrale in Informatica Uman
 ## Metodi di Fisica per le Scienze Umane
 - [**Tesina**](https://github.com/luciapiff/Metodi-della-fisica-per-le-scienze-umane) - [Lucia Pifferi](https://github.com/luciapiff/)
 
+## Linguistica Computazionale
+- [**Progetto**](https://github.com/lyereth/text_analysis_1) - [Erica Cau](https://github.com/lyereth/)
