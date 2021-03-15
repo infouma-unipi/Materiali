@@ -8,6 +8,10 @@ Materiali relativi agli esami del Corso di Laurea Magistrale in Informatica Uman
 [**Esercizi in Java**]: (https://github.com/andreafailla/Esercizi-in-java)
 * Ambienti virtuali	
 * Data Mining 
+[**Appunti per l'esame di Data Mining (A.A. 2020/21)**]:
+ (https://github.com/lyereth/Appunti-Data-Mining-)
+ [**Progetto svolto l'esame di Data Mining A.A. 2020/21**]:
+ (https://github.com/lyereth/Data-Mining-project)
 * Decision support databases
 * Editoria Digitale
 * Grafica 3D per i beni culturali	
@@ -19,8 +23,8 @@ Materiali relativi agli esami del Corso di Laurea Magistrale in Informatica Uman
 * Progettazione di interfacce e valutazione dell’usabilità	
 * Programmazione di interfacce	
 * Semantic web 
-[**Narrative Ontology (Feb-2021)**] (https://github.com/andreafailla/Narrative-Ontology)
-[**Progetto di Semantic Web 2019/2020**](https://github.com/luciapiff/Semantic-Web)
+- [**Narrative Ontology (Feb-2021)**] (https://github.com/andreafailla/Narrative-Ontology)
+- [**Progetto di Semantic Web 2019/2020**](https://github.com/luciapiff/Semantic-Web)
 * Social network analysis 
 * Technologies for web marketing
 * Text analytics
