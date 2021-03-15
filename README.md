@@ -2,7 +2,7 @@
 Materiali relativi agli esami del Corso di Laurea Magistrale in Informatica Umanistica
 
 
-##CARATTERIZZANTI DI AMBITO INFORMATICO
+##Caratterizzanti di Ambito Informatico
 
 * Programmazione e Analisi di Dati
 * Ambienti virtuali	
