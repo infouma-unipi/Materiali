@@ -3,7 +3,7 @@ Materiali relativi agli esami del Corso di Laurea Magistrale in Informatica Uman
 
 
 * Fondamenti di Informatica
-  [**Progetto di Fondamenti di Informatica**]: https://github.com/FedericoMz/fondamentiDiInformatica]
+  [**Progetto di Fondamenti di Informatica**]: (https://github.com/FedericoMz/fondamentiDiInformatica)
 * Programmazione e Analisi di Dati
 * Ambienti virtuali	
 * Data Mining 
