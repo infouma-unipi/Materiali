@@ -2,9 +2,8 @@
 Materiali relativi agli esami del Corso di Laurea Magistrale in Informatica Umanistica
 
 
-# Fondamenti di Informatica
+* Fondamenti di Informatica
 - Sito web: https://github.com/FedericoMz/fondamentiDiInformatica
-
 * Programmazione e Analisi di Dati
 * Ambienti virtuali	
 * Data Mining 
