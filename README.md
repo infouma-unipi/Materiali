@@ -17,7 +17,7 @@ Materiali relativi agli esami del Corso di Laurea Magistrale in Informatica Uman
 
 ## Linguistica Computazionale
 - [**Strumenti per i compitini**](https://github.com/FedericoMz/Linguistica-Computazionale/) - [Federico Mazzoni](https://github.com/FedericoMz)
-- [**Progetto di Linguistica Computazionale (Tradizionale)**](https://github.com/lyereth/text_analysis_1) - [Erica Cau](https://github.com/lyereth/)
+- [**Progetto di Linguistica Computazionale (Recensioni negative e positive)**](https://github.com/lyereth/text_analysis_1) - [Erica Cau](https://github.com/lyereth/)
 - [**Progetto di Linguistica Computazionale (Elezioni USA)**](https://github.com/andreafailla/LingComp-progetto) - [Andrea Failla](https://github.com/andreafailla)
 
 ## Metodi di Fisica per le Scienze Umane
