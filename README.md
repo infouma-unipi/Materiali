@@ -14,7 +14,7 @@ Materiali relativi agli esami del Corso di Laurea Magistrale in Informatica Uman
  
 ## Data Mining 1
 - [**Appunti per l'esame di Data Mining (A.A. 2020/21)**](https://github.com/lyereth/Appunti-Data-Mining-) - [Erica Cau](https://github.com/lyereth/), [Federico Mazzoni](https://github.com/FedericoMz) et al
-- [**Progetto svolto l'esame di Data Mining A.A. 2020/21**](https://github.com/lyereth/Data-Mining-project) - [Erica Cau](https://github.com/lyereth/), [Federico Mazzoni](https://github.com/FedericoMz) et al
+- [**Progetto svolto esame di Data Mining A.A. 2020/21**](https://github.com/lyereth/Data-Mining-project) - [Erica Cau](https://github.com/lyereth/), [Federico Mazzoni](https://github.com/FedericoMz) et al
 
 ## Linguistica Computazionale
 - [**Strumenti per i compitini**](https://github.com/FedericoMz/Linguistica-Computazionale/) - [Federico Mazzoni](https://github.com/FedericoMz)
