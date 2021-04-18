@@ -13,7 +13,7 @@ Materiali relativi agli esami del Corso di Laurea Magistrale in Informatica Uman
 - [**Compitino con soluzioni idoneità 3 CFU**](https://github.com/infouma-unipi/JavaThread) - Anonimo sommelier di vino
 - [**Compitino con soluzioni idoneità 3 CFU**](https://github.com/infouma-unipi/JavaThread2) - Anonima pony pizza
 
-## Programmazione e Analisi di Dati [Modulo Python
+## Programmazione e Analisi di Dati [Modulo Python]
 
 ## Data Mining 1
 - [**Appunti per l'esame di Data Mining (A.A. 2020/21)**](https://github.com/lyereth/Appunti-Data-Mining-) - [Erica Cau](https://github.com/lyereth/), [Federico Mazzoni](https://github.com/FedericoMz) et al
