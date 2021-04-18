@@ -8,12 +8,13 @@ Materiali relativi agli esami del Corso di Laurea Magistrale in Informatica Uman
 ## Progettazione e Programmazione Web (Siti)
 - [**Mir da'len Somniar**](https://github.com/lyereth/Sito-PPW) - [Erica Cau](https://github.com/lyereth) 
 
-## Programmazione e Analisi di Dati [Java, A.A. 2020/2021]
+## Programmazione e Analisi di Dati [Modulo Java, A.A. 2020/2021]
 - [**Esercizi in Java**](https://github.com/andreafailla/Esercizi-in-java) - [Andrea Failla](https://github.com/andreafailla)
 - [**Compitino con soluzioni idoneità 3 CFU**](https://github.com/infouma-unipi/JavaThread) - Anonimo sommelier di vino
 - [**Compitino con soluzioni idoneità 3 CFU**](https://github.com/infouma-unipi/JavaThread2) - Anonima pony pizza
 
- 
+## Programmazione e Analisi di Dati [Modulo Python
+
 ## Data Mining 1
 - [**Appunti per l'esame di Data Mining (A.A. 2020/21)**](https://github.com/lyereth/Appunti-Data-Mining-) - [Erica Cau](https://github.com/lyereth/), [Federico Mazzoni](https://github.com/FedericoMz) et al
 - [**Progetto svolto esame di Data Mining A.A. 2020/21**](https://github.com/lyereth/Data-Mining-project) - [Erica Cau](https://github.com/lyereth/), [Federico Mazzoni](https://github.com/FedericoMz) et al
