@@ -14,6 +14,7 @@ Materiali relativi agli esami del Corso di Laurea Magistrale in Informatica Uman
 - [**Compitino con soluzioni idoneità 3 CFU**](https://github.com/infouma-unipi/JavaThread2) - Anonima pony pizza
 - [**Compitino con soluzioni idoneità 3 CFU**](https://github.com/infouma-unipi/JavaThread3) - Anonimo addetto aereoportuale
 - [**Compitino con soluzioni idoneità 3 CFU**](https://github.com/infouma-unipi/JavaThread4) - Anonima addetta aereoportuale junior
+- [**Compitino con soluzioni idoneità 3 CFU**](https://github.com/infouma-unipi/JavaThread5) - Anonimo pasticcere
 
 
 ## Programmazione e Analisi di Dati [Modulo Python]
