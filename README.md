@@ -15,6 +15,7 @@ Materiali relativi agli esami del Corso di Laurea Magistrale in Informatica Uman
 
 ## Programmazione e Analisi di Dati [Modulo Java, A.A. 2020/2021]
 - [**Esercizi in Java**](https://github.com/andreafailla/Esercizi-in-java) - [Andrea Failla](https://github.com/andreafailla)
+- [**Progetto in Java**](https://github.com/simonamazzarino/Progetti-Programmazione-in-Java/tree/main/MorraCinese) - Quasi anonima giocatrice di morra cinese 
 - [**Compitino con soluzioni idoneità 3 CFU**](https://github.com/infouma-unipi/JavaThread) - Anonimo sommelier di vino
 - [**Compitino con soluzioni idoneità 3 CFU**](https://github.com/infouma-unipi/JavaThread2) - Anonima pony pizza
 - [**Compitino con soluzioni idoneità 3 CFU**](https://github.com/infouma-unipi/JavaThread3) - Anonimo addetto aereoportuale
@@ -25,8 +26,8 @@ Materiali relativi agli esami del Corso di Laurea Magistrale in Informatica Uman
 ## Programmazione e Analisi di Dati [Modulo Python]
 
 ## Data Mining
-- [**Appunti per l'esame di Data Mining 1+2 (A.A. 2020/21)**](https://github.com/lyereth/Appunti-Data-Mining-) - [Erica Cau](https://github.com/lyereth/), [Federico Mazzoni](https://github.com/FedericoMz) et al
-- [**Progetto svolto esame di Data Mining 1 A.A. 2020/21**](https://github.com/lyereth/Data-Mining-project) - [Erica Cau](https://github.com/lyereth/), [Federico Mazzoni](https://github.com/FedericoMz) et al
+- [**Appunti per l'esame di Data Mining 1+2 (A.A. 2020/21)**](https://github.com/lyereth/Appunti-Data-Mining-) - [Erica Cau](https://github.com/lyereth/), [Federico Mazzoni](https://github.com/FedericoMz), [Simona Mazzarino] (https://github.com/simonamazzarino) et al.
+- [**Progetto svolto esame di Data Mining 1 A.A. 2020/21**](https://github.com/lyereth/Data-Mining-project) - [Erica Cau](https://github.com/lyereth/), [Federico Mazzoni](https://github.com/FedericoMz), [Simona Mazzarino] (https://github.com/simonamazzarino) et al.
 
 ## Linguistica Computazionale
 - [**Strumenti per i compitini**](https://github.com/FedericoMz/Linguistica-Computazionale/) - [Federico Mazzoni](https://github.com/FedericoMz)
@@ -47,6 +48,9 @@ Materiali relativi agli esami del Corso di Laurea Magistrale in Informatica Uman
 - [**Esercizi Codifica di Testi (2018/19)**](https://github.com/lyereth/Esercizi-Codifica-di-Testi) - [Erica Cau](https://github.com/lyereth)
 - [**Progetto esame Codifica di Testi (2018/19)**](https://github.com/lyereth/Progetto-Esame-Codifica-di-Testi) - [Erica Cau](https://github.com/lyereth), [Alice Isola](https://github.com/alisola21)
 - [**Progetto Esame codifica di testi (2018/19)**](https://github.com/giacomocerre/corsoCodifica-1) - [Giacomo Cerretini](https://github.com/giacomocerre), [Camilla Poggianti](https://github.com/cpoggianti), [Duccio Breshi](https://github.com/duckyb)
+
+## Linguistica Applicata
+- [**Progetto prova in R (2020/21)**](https://github.com/simonamazzarino/Linguistica-Applicata---R) - [Simona Mazzarino](https://github.com/simonamazzarino)
 
 ## DataJournalism
 - [**Crypto Mining Scraping**](https://github.com/giacomocerre/CryptoMining-Scraping) - [Giacomo Cerretini](https://github.com/giacomocerre)
