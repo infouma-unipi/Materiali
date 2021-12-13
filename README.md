@@ -24,10 +24,10 @@ Materiali relativi agli esami del Corso di Laurea Magistrale in Informatica Uman
 
 
 ## Programmazione e Analisi di Dati [Modulo Python]
-
+[**Progetto Analisi di dati**](https://github.com/lyereth/Analisi-di-Dati) - [Erica Cau](https://github.com/lyereth), [Simona Mazzarino](https://github.com/simonamazzarino), [Federico Mazzoni](https://github.com/FedericoMz)
 ## Data Mining
 - [**Appunti per l'esame di Data Mining 1+2 (A.A. 2020/21)**](https://github.com/lyereth/Appunti-Data-Mining-) - [Erica Cau](https://github.com/lyereth/), [Federico Mazzoni](https://github.com/FedericoMz), [Simona Mazzarino] (https://github.com/simonamazzarino) et al.
-- [**Progetto svolto esame di Data Mining 1 A.A. 2020/21**](https://github.com/lyereth/Data-Mining-project) - [Erica Cau](https://github.com/lyereth/), [Federico Mazzoni](https://github.com/FedericoMz), [Simona Mazzarino] (https://github.com/simonamazzarino) et al.
+- [**Progetto svolto esame di Data Mining 1 A.A. 2020/21**](https://github.com/lyereth/Data-Mining-project) - [Erica Cau](https://github.com/lyereth/), [Federico Mazzoni](https://github.com/FedericoMz), [Simona Mazzarino](https://github.com/simonamazzarino) et al.
 
 ## Linguistica Computazionale
 - [**Strumenti per i compitini**](https://github.com/FedericoMz/Linguistica-Computazionale/) - [Federico Mazzoni](https://github.com/FedericoMz)
